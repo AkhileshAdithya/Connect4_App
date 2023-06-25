@@ -13,3 +13,8 @@ Prereqs -
 ````
 
 Currently plays AI v/s Player
+
+## Image
+![connect4](https://github.com/AkhileshAdithya/Connect4_App/assets/38578610/ec6598c1-a981-4d79-8530-fc95445b6365)
+
+
